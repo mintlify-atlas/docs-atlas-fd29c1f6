@@ -1,0 +1,118 @@
+{
+  "projectType": "ai-ml",
+  "projectName": "The Consciousness AI",
+  "projectDescription": "A research framework for investigating emergent synthetic consciousness through biologically grounded neural architecture, emotional homeostasis, and integrated information theory.",
+  "theme": "willow",
+  "primaryColor": "#7c7c7c",
+  "lightColor": "#060606",
+  "darkColor": "#c3c3c3",
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Documentation",
+        "groups": [
+          {
+            "group": "Get Started",
+            "pages": [
+              "introduction",
+              "quickstart",
+              "installation"
+            ]
+          },
+          {
+            "group": "Core Concepts",
+            "pages": [
+              "concepts/functionalist-emergentism",
+              "concepts/emotional-homeostasis",
+              "concepts/global-workspace",
+              "concepts/integrated-information",
+              "concepts/feinberg-mallatt"
+            ]
+          },
+          {
+            "group": "Architecture",
+            "pages": [
+              "architecture/overview",
+              "architecture/sensory-tectum",
+              "architecture/oscillatory-binding",
+              "architecture/global-workspace",
+              "architecture/affective-core",
+              "architecture/self-model",
+              "architecture/reinforcement-core"
+            ]
+          },
+          {
+            "group": "Training",
+            "pages": [
+              "training/overview",
+              "training/dark-room",
+              "training/emotional-agent",
+              "training/rlhf"
+            ]
+          },
+          {
+            "group": "Simulation",
+            "pages": [
+              "simulation/guide",
+              "simulation/environments",
+              "simulation/scenarios",
+              "simulation/unity-integration"
+            ]
+          },
+          {
+            "group": "Evaluation",
+            "pages": [
+              "evaluation/metrics",
+              "evaluation/phi-iit",
+              "evaluation/effective-information",
+              "evaluation/binding-validation"
+            ]
+          },
+          {
+            "group": "Ethics & Safety",
+            "pages": [
+              "ethics/framework",
+              "ethics/asimov-compliance"
+            ]
+          },
+          {
+            "group": "Reference",
+            "pages": [
+              "reference/roadmap",
+              "reference/contributing",
+              "reference/faq"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "keyFeatures": [
+    "Biologically grounded architecture based on Feinberg & Mallatt's neuroevolutionary theory of consciousness",
+    "Global Neuronal Workspace (GNW) with sigmoid ignition, recurrent reverberation, and reentrant processing",
+    "AKOrN oscillatory binding (Kuramoto oscillators) for the neural binding problem",
+    "Integrated Information Theory (Phi) measurement with causal gate states",
+    "PAD emotional model (Valence, Arousal, Dominance) driving homeostatic reward shaping",
+    "Sensory Tectum with trimodal fusion (visual, auditory, somatosensory) via inverse effectiveness",
+    "4-level Capsule Network compositional hierarchy with multi-level reentrant feedback",
+    "AsimovComplianceFilter for ethical action pre-screening with world model trajectory prediction",
+    "Dark Room Gymnasium environment for emotional bootstrapping training",
+    "Brian2 biological validation of AKOrN oscillatory parameters",
+    "FAISS-backed emotional memory with episodic store",
+    "DreamerV3-style RSSM world model for surprise-based workspace access bidding"
+  ],
+  "publicApiSurface": [
+    "ConsciousnessAgent — central orchestrator of the full cognitive loop",
+    "GlobalWorkspace — GNW bottleneck with competition and broadcast",
+    "SensoryTectum — trimodal topographic integration (visual, audio, somatosensory)",
+    "OscillatoryBinding — AKOrN Kuramoto phase synchronization",
+    "ReentrantProcessor — adaptive convergence loop (5–10 cycles)",
+    "CapsuleComposition — 4-level nested compositional hierarchy",
+    "EmotionalRewardShaper — PAD-based reward shaping with homeostatic drives",
+    "AsimovComplianceFilter — three-law ethical action filter",
+    "MemoryCore — FAISS-backed emotional and episodic memory",
+    "SimpleVisualEnv — Dark Room Gymnasium environment",
+    "scripts/training/train_rlhf.py — main training entrypoint",
+    "scripts/demos/demo_akorn_binding.py — oscillatory binding visualization"
+  ]
+}
